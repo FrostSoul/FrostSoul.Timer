@@ -1,0 +1,12 @@
+{
+  "type": "Plugin",
+  "name": "FrostSoul.Timer",
+  "author": "FrostSoul",
+  "repository": "https://github.com/FrostSoul/Your-Repository",
+  "packageId": "YourName.ExtensionName",
+  "version": "1.0.0",
+  "target-plugin-api-version": 40,
+  "target-macro-deck-version": "2.14.1",
+  "dll": "FrostSoul.Timer.dll",
+  "author-discord-userid": "FrostSoul948#4062"
+}
